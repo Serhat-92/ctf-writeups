@@ -1,0 +1,13 @@
+# VPN and capture files
+*.ovpn
+*.pcap
+
+# Keys and credentials
+*.key
+*.pem
+id_rsa*
+.env
+
+# Local-only data
+loot/
+wordlists/
